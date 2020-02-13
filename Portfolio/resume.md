@@ -28,9 +28,9 @@ Minor in Music
   accompanying ecosystem into an undergraduate I.S curriculum. Published in the [Information Systems
   Education Journal Volume 17, No. 4](http://isedj.org/2019-17/n4/ISEDJv17n4p42.pdf)
   * Co-Presented research at the [2018 EDSIGCON Conference in Norfolk, VA](http://proc.iscap.info/2018/)
-  * Amazon Web Services Certified Solutions Architect - Associate – July 2019
-  * Amazon Web Services Certified Developer Associate – December 2019
-  * Amazon Web Services Certified  SysOps Administrator - Associate – January 2020
+* Amazon Web Services Certified Solutions Architect - Associate – July 2019
+* Amazon Web Services Certified Developer Associate – December 2019
+* Amazon Web Services Certified  SysOps Administrator - Associate – January 2020
 
 ## Community Service
 * Public High School STEM Mentor
