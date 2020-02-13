@@ -11,15 +11,15 @@ Minor in Music
 ## Work Experience
 * State Farm Insurance Bloomington, IL Spring 2018 – Present
 * Big Data Developer - Test Data Privacy
- * Supported sensitive data scanning Hadoop application that ingests data from all enterprise test systems.
- * Supported Splunk application that monitors inbound/outbound traffic to test DB2 Systems
- * Worked on committee focused on accelerating AWS adoption across Enterprise Data Systems area
-  * Data Analyst - Total Loss Technology
+  * Supported sensitive data scanning Hadoop application that ingests data from all enterprise test systems.
+  * Supported Splunk application that monitors inbound/outbound traffic to test DB2 Systems
+  * Worked on committee focused on accelerating AWS adoption across Enterprise Data Systems area
+* Data Analyst - Total Loss Technology
   * Provided ad hoc DB2 reports for Total Loss Claims business partners to respond to production outages.
   * Designed and developed python application for enforcing data quality rules across a database system of 200+ tables.
 * Data Analyst Intern - Big Data Platforms
- * Worked on the Big Data Application Development Support team providing enterprise support for Spark, MapReduce, Oozie, Pig and YARN
- * Researched and provided documentation for enterprise Hadoop platform implementation of Anaconda
+  * Worked on the Big Data Application Development Support team providing enterprise support for Spark, MapReduce, Oozie, Pig and YARN
+  * Researched and provided documentation for enterprise Hadoop platform implementation of Anaconda
 
 ## Research and Certifications
 * Research on Integration of Big Data into an Undergraduate I.S curriculum
