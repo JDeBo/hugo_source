@@ -2,7 +2,7 @@
 title: "Music"
 omit_header_text: true
 date: 2019-11-16T07:53:07-06:00
-featured_image: "/img/perc2.jpg"
+featured_image: "/img/banners/music1.png"
 type: page
 menu: about
 draft: false

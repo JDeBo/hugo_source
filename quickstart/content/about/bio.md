@@ -2,7 +2,7 @@
 title: "Bio"
 omit_header_text: true
 date: 2019-11-16T07:53:07-06:00
-featured_image: "/img/website_banner_2.png"
+featured_image: "/img/banners/music3.png"
 type: page
 menu: about
 draft: false
