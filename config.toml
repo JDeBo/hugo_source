@@ -1,5 +1,5 @@
 title = "Justin DeBo"
-baseURL = "https://example.com"
+baseURL = "jdebo.github.io"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
@@ -17,13 +17,13 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  description = "My Personal Site for Whatever"
+  favicon = "img/favicon.png"
+  description = "My Personal Site"
   facebook = ""
   twitter = ""
   instagram = ""
   youtube = ""
-  github = "https://github.com/JDeBo/jdebo95.github.io"
+  github = "https://github.com/JDeBo"
   gitlab = ""
   linkedin = "https://www.linkedin.com/in/justin-debo-897913140/"
   mastodon = ""
